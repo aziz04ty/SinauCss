@@ -1,0 +1,31 @@
+body {
+    font-family: arial;
+}
+
+h1, h2 {
+    /* koma(,) di artikan sebagai "dan" */
+    color: greenyellow;
+    z-index: 1;
+}
+
+ul li a {
+    /* (di baca dari kanan) css tolong pilihkan saya tag a yang ada di dalam tag li di dalam tag ul
+    spasi ( ) di "yang" */
+    color: yellow;
+}
+
+ol li a {
+    /* (di baca dari kanan) css tolong pilihkan saya tag a yang ada di dalam tag li di dalam tag ol
+    spasi ( ) di "yang" */
+    color: red;
+}
+
+#p1 {
+    /* untuk memanggil id kita menggunakan crash (#) */
+    color: orange;
+}
+
+.p2 {
+    /* untuk memanggil class kita menggunakan titik(.) */
+    color: red;
+}
